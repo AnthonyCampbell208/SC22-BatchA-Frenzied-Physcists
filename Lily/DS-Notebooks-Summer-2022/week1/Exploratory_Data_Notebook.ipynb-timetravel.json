@@ -1,0 +1,1100 @@
+[
+  {
+    "time_utc": "2022-06-07T18:03:06.581Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 49,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:03:06.748Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 106,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:03:07.026Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 4075882,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:03:07.714Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 47,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:03:07.812Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 49,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:03:41.397Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 49,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:03:47.421Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 51,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:03:47.808Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 3155,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:02.473Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 91,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:04.829Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 105,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:05.181Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 38,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:06.850Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 46,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:06.852Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 52,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:07.554Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 170,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:07.558Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 52,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:07.766Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 51,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:07.770Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 51,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:07.828Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 140,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:07.874Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 761,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:07.880Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 47,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:07.976Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 70,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:10.770Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 43,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:13.417Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 38,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:27.957Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 111,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:28.553Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 105,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:28.581Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 38,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:30.348Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 114,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:35.358Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 816,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:45.191Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 82,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:46.449Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 82,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:05:59.451Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 115,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:06:00.363Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 105,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:06:01.468Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 114,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:06:01.510Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 761,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:06:06.526Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 112,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:06:17.059Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 111,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:13.693Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 89,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:14.489Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 105,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:15.237Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:15.263Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 86,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:15.420Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 140,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:15.426Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 776,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:15.478Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 70,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:22.201Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 109,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:24.485Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 105,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:25.446Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 114,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:25.460Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 789,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:39.511Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 89,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:40.739Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 84,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:41.259Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 86,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:42.641Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 84,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:43.123Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 86,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:44.243Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 84,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:44.665Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 86,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:45.833Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 84,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:46.323Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 86,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:47.491Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 84,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:48.045Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 86,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:48.599Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 84,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:49.215Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 86,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:50.629Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 84,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:51.133Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 86,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:51.671Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 84,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:52.041Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 86,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:52.217Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 84,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:07:52.475Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 86,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:06.753Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 91,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:07.990Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 140,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:08.242Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 50,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:08.714Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 112,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:13.487Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 91,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:14.444Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 140,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:19.472Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 127,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:22.497Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 91,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:23.391Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 105,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:24.428Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 114,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:24.444Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 1585,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:29.456Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 112,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:30.749Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 116,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:31.994Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 114,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:32.002Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 1959,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:32.048Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 70,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:41.817Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 111,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:43.281Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 105,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:44.228Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 114,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:49.262Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 2691,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:50.311Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 109,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:51.699Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 105,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:52.848Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 114,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:52.856Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 3440,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:52.950Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 70,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:56.027Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 96,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:57.169Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 86,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:58.207Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 86,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:08:59.951Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 51,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:09:29.553Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 105,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:23:02.001Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 49,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:27:20.019Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 49,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:31:43.925Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 51,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:34:08.603Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 102,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:34:09.554Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 114,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:34:09.562Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 47,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:34:09.610Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 86,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:34:17.233Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 102,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:34:18.580Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 114,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:34:18.604Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 128,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:35:18.313Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 102,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:35:18.886Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 114,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:35:23.908Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 128,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:10.192Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 48,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:10.260Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 2106,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:10.342Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 250518,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:10.442Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 47,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:36.681Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 91,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:37.854Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 46,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:37.856Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 52,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:38.075Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 153,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:38.954Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 170,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:38.958Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 52,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:39.194Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 51,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:39.198Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 47,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:39.250Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 98,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:39.488Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 50,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:37:39.818Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 112,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:38:59.105Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 49,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:42:21.229Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 49,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:45:54.449Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 94,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:45:56.821Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 101,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:47:11.353Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 105,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:47:12.728Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 140,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:47:12.780Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 1197,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:47:12.786Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 47,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:47:12.844Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 70,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:47:32.683Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 102,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:47:33.041Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 95,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:47:34.363Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 49,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:54:26.803Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 107,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:54:27.729Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 105,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:54:28.745Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:54:29.136Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 1000,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:54:47.303Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 118,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:54:51.263Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 101,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:54:53.221Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 105,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:54:54.458Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 114,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:54:54.466Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 918,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:54:54.556Z",
+    "account_id": "4ecc52f5-f80b-4322-9a0d-563e88b9d2a6",
+    "patch_length": 112,
+    "user": "The Project"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:06.347Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 95,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:06.767Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 100,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:06.801Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:07.013Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 107,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:07.027Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:07.163Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:07.285Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:10.095Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:10.605Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:11.739Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:12.141Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 107,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:12.319Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:12.347Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:12.377Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:12.491Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:12.625Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:13.179Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:13.593Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:13.619Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:13.665Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:24.627Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:25.641Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:26.829Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:27.703Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:28.231Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:28.695Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:29.329Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:29.753Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:29.781Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:29.857Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:30.363Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:30.393Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:31.107Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:31.495Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:31.547Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:55:31.607Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 145,
+    "user": "Lily Altamirano"
+  },
+  {
+    "time_utc": "2022-06-07T18:57:30.069Z",
+    "account_id": "7f200b44-dc14-4bb2-8c5e-4e4ef9d47931",
+    "patch_length": 142,
+    "user": "Lily Altamirano"
+  }
+]
