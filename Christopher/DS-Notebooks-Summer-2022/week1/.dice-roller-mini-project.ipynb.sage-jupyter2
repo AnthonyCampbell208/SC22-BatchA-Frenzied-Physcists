@@ -41,5 +41,5 @@
 {"cell_type":"markdown","id":"ebb239","input":"At its most basic level, a for loop will run the code below it however many times you specified. Go ahead and write some code below that prints out \"I love pizza\" 12 times.","pos":25,"type":"cell"}
 {"cell_type":"markdown","id":"f15719","input":"Python uses the \"random\" module to generate (functionally) random numbers as well as performing a variety of chance based tasks. In order to use this module, all we need to do is type \"import random\". Though this also works for all install modules, \"random\" is a default module that comes with python. After we import it, we will generate and print a random decimal between 0 and 1","pos":13,"type":"cell"}
 {"cell_type":"markdown","id":"f77287","input":"## Section 1: User input","pos":2,"type":"cell"}
-{"id":0,"time":1654626389192,"type":"user"}
-{"last_load":1654643307870,"type":"file"}
+{"id":0,"time":1655393972858,"type":"user"}
+{"last_load":1655393972798,"type":"file"}

@@ -82,5 +82,5 @@
 {"cell_type":"markdown","id":"f4de99","input":"Many are issues with hyphens, some are not, let's fix the hyphen problem and look at the rest.","pos":54,"type":"cell"}
 {"cell_type":"markdown","id":"fa52ae","input":"## Table Of Contents:\n\n* [Import Packages and Define Functions](#Import)\n* [Loading Data](#Load)\n* [Exploring Data](#Explore)\n* [Cleaning Data](#Clean)\n* [Analyzing Data](#Analyze)\n* [Visualizing Data](#Visual)\n\n","pos":1,"type":"cell"}
 {"cell_type":"markdown","id":"fab3d0","input":"### Import Packages and Define Functions <a class=\"anchor\" id=\"Import\"></a>\n##### You should have a section that imports necessary packages and defines any functions at the top of every notebook, anyone know why?","pos":2,"type":"cell"}
-{"id":0,"time":1654789707092,"type":"user"}
-{"last_load":1654787190546,"type":"file"}
+{"id":0,"time":1655393966416,"type":"user"}
+{"last_load":1655393966334,"type":"file"}

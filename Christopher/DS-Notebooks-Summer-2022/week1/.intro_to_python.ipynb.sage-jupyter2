@@ -144,5 +144,5 @@
 {"cell_type":"markdown","id":"eb0eb0","input":"In the following section we will be covering modules. Above, we leaned about functions and the power that they have. Modules let us use functions that other people have created to solve problems that we commonly incounter. For example, if we find that we frequently have to get a random number, instead of coding it every time, you could just import a function that either you or someone else created in the past. Basically, modules and importing lets us have access to the work of many other coders, making it a very powerful tool.","pos":96,"type":"cell"}
 {"cell_type":"markdown","id":"ef39c7","input":"First up, lists. you can create a list with the following code.","pos":28,"type":"cell"}
 {"cell_type":"markdown","id":"fd25c7","input":"### Variables","pos":2,"type":"cell"}
-{"id":0,"time":1654792995094,"type":"user"}
-{"last_load":1654792995300,"type":"file"}
+{"id":0,"time":1655399560810,"type":"user"}
+{"last_load":1655399560725,"type":"file"}
