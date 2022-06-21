@@ -39,5 +39,5 @@
 {"cell_type":"markdown","id":"9b4f9c","input":"Suhas\n","pos":36,"state":"done","type":"cell"}
 {"cell_type":"markdown","id":"cd6361","input":"This visualization shows x and y and z. This is important because. THis gives us insights on a,b,c,\n","pos":21.75,"state":"done","type":"cell"}
 {"end":1655389339497,"exec_count":50,"id":"1c886c","input":"\nfig = px.histogram(stroke_df, x = 'stroke')\nfig.show()","kernel":"ds_env","output":{"0":{"data":{"iframe":"9880b494fd9ce652d1325b2d7bd13b7566b3944f"}}},"pos":21.5,"scrolled":true,"start":1655389339437,"state":"done","type":"cell"}
-{"id":0,"time":1655744875231,"type":"user"}
+{"id":0,"time":1655749755405,"type":"user"}
 {"last_load":1655744883319,"type":"file"}
